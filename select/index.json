@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マッカ帝国",
+  "base_artist": "カイジューバイミー",
+  "createdAt": "2026-03-31T11:21:15.517116Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マッカ帝国",
+      "artist": "カイジューバイミー",
+      "has_synced": false,
+      "path": "select/pl_01_マッカ帝国_カイジューバイミー.txt"
+    }
+  ]
+}
